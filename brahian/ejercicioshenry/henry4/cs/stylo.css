@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 500vh;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: space-between;
+}
+
+div{
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(187, 113, 113);
+    width: 200px;
+    height: 200px;
+}
+
